@@ -1,0 +1,5 @@
+tsc --init
+.json file kreálása
+
+tsc --watch 
+.ts fájlt át kkonvertálja .js -re
